@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Balance Sheet]( https://muhdal-amin.github.io/penguin-app/)
+- Live Site URL: [Balance Sheet](https://muhdal-amin.github.io/balance-sheet/)
 
 ## My process
 
